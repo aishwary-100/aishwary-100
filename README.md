@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=aishwary-100&label=Profile%20views&color=0e75b6&style=flat" alt="aishwary-100" />
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mellow-kelpie-196825.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://euphonious-sunflower-2c43e2.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Express, Node.js, & MongoDB**
 
