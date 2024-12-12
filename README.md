@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **aishwarytiwari7@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](#) *(Replace `#` with your resume link when hosted online)*
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1MfBUX8z19wu7LD1IrkKooqZocRo70ofc/view?usp=sharing) *(Replace `#` with your resume link when hosted online)*
 
 - ⚡ Fun fact: **I think I am funny**
 
